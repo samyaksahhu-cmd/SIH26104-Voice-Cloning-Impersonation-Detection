@@ -1,0 +1,10 @@
+{
+  "name": "Verity Deepfake Protection",
+  "short_name": "Verity",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef4f0",
+  "theme_color": "#eef4f0",
+  "description": "Scan media for potential AI manipulation and protect against scam calls.",
+  "icons": []
+}
